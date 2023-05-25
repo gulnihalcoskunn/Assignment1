@@ -3,7 +3,7 @@
 *********************Surname:COSKUN*********************
 *********************Course Name:SWE202 SOFTWARE VERIFICATION AND VALIDATION
 *********************Assignment1*************************
- ********************GitHub Repository address: https://github.com/gulnihalcoskunn/Assignment1.git */
+ ********************GitHub Repository address: https://github.com/gulnihalcoskunn/Assignment.git */
 
 
 package org.example;
